@@ -10,7 +10,11 @@ Features:
 
 ---
 Screenshots:
-<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 34 07 AM" src="https://github.com/user-attachments/assets/9777f6f7-5e48-4570-a9b2-8eaf369e51e4" />
+<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 34 07 AM" src="https://github.com/user-attachments/assets/5761bbef-1851-4f0f-978a-69b9051fb502" />
+<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 34 26 AM" src="https://github.com/user-attachments/assets/eab59ecb-6145-4096-96c6-9a3cd22b216e" />
+
+<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 34 56 AM" src="https://github.com/user-attachments/assets/26942316-7b31-496a-b4ad-0329a2442d05" />
+<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 35 51 AM" src="https://github.com/user-attachments/assets/b192ed97-87cd-45ae-a51a-2f6b3b5ad6f0" />
 
 ## Setup
 
