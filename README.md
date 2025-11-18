@@ -9,6 +9,8 @@ Features:
 - Lightweight, Vite + React
 
 ---
+Screenshots:
+<img width="1692" height="952" alt="Screenshot 2025-11-18 at 10 34 07 AM" src="https://github.com/user-attachments/assets/9777f6f7-5e48-4570-a9b2-8eaf369e51e4" />
 
 ## Setup
 
